@@ -18,5 +18,5 @@ use Illuminate\Support\Facades\Route;
 //     return $request->user();
 // });
 
-Route::get('/test-dinkes/join-api', 'ApiController@home');
-Route::get('/test-dinkes/filter-api', 'ApiController@filter');
+Route::get('/dinkes/handson9', 'ApiController@home');
+Route::get('/dinkes/handson10', 'ApiController@filter');
