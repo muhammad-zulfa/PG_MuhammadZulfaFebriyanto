@@ -33,7 +33,7 @@ This project **no need database**, all saved in memory. To run this project just
 
 - Run **php artisan serve**.
 
-- Access [http://127.0.0.1:8000/api/test-dinkes/join-api] for number 1 and [http://127.0.0.1:8000/api/test-dinkes/filter-api] for number 2 in your browser.
+- Access [http://127.0.0.1:8000/api/test-dinkes/join-api] for number 9 and [http://127.0.0.1:8000/api/test-dinkes/filter-api] for number 10 in your browser.
 
 
 ## Author
